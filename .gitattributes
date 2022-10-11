@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<hmtl>
-<title>yo.com</title>
+<head>
+<title> yo </title>
 </head>
 <body>
-
-<h1>...yo...
-<p> yo
+<h1> yo </h1>
+<p> yo 2 <img src="Jetstream_Sam_Profile.webp" width="60" height="360" alt="image not found"></p>
+</body>
 </html>
